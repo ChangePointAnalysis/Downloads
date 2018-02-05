@@ -2,9 +2,9 @@
 
 
 
-**Title:** A Survey of Methods for Time Series Change Point Detection  ## [View Paper](https://changepointanaysis.github.io/content/A_Survey_of_Methods_for_Time_Series_Change_Point_Detection.pdf)
+**Title:** A Survey of Methods for Time Series Change Point Detection   [View Paper](https://changepointanaysis.github.io/content/A_Survey_of_Methods_for_Time_Series_Change_Point_Detection.pdf)
 
-**Authors:** Samaneh Aminikhanghahid & Diane J. Cook                    
+**Authors:** S.Aminikhanghahid & D.J.Cook                    
 
 **Abstract:** Change points are abrupt variations in time series data. Such abrupt changes may represent 
 transitions that occur between states. Detection of change points is useful in modelling and 
@@ -19,4 +19,4 @@ compare the algorithms. Finally, we present some grand challenges for the commun
 
 
 
-## Changepoint Analysis -  [Introduction](https://changepointanalysis.github.io/ "Changepoint Analysis Introduction")
+## CPA -  [Introduction](https://changepointanalysis.github.io/ "Changepoint Analysis Introduction")
