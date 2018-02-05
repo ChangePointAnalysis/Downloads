@@ -19,12 +19,4 @@ compare the algorithms. Finally, we present some grand challenges for the commun
 
 
 
-
-
-> # PDF Books
-
-> # Packages
-
-> # Notebooks
-
 ## Changepoint Analysis -  [Introduction](https://changepointanalysis.github.io/ "Changepoint Analysis Introduction")
