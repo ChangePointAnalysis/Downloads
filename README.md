@@ -1,6 +1,9 @@
 > # PDF Papers
 
 Title: A Survey of Methods for Time Series Change Point Detection
+
+## [View Paper](https://changepointanaysis.github.io/content/A_Survey_of_Methods_for_Time_Series_Change_Point_Detection.pdf)|
+
 Authors: Samaneh Aminikhanghahid & Diane J. Cook                    
 
 Abstract: 
@@ -15,7 +18,7 @@ compare the algorithms. Finally, we present some grand challenges for the commun
                                                                                                   
 Keywords:  Change point detection; Time series data; Segmentation; Machine learning; Data mining 
 
-## [View Paper](https://changepointanaysis.github.io/content/A_Survey_of_Methods_for_Time_Series_Change_Point_Detection.pdf)|
+
 
 
 
