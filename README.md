@@ -1,8 +1,8 @@
 > # PDF Papers
 
-**Title:** A Survey of Methods for Time Series Change Point Detection
 
-## [View Paper](https://changepointanaysis.github.io/content/A_Survey_of_Methods_for_Time_Series_Change_Point_Detection.pdf)
+
+**Title:** A Survey of Methods for Time Series Change Point Detection  ## [View Paper](https://changepointanaysis.github.io/content/A_Survey_of_Methods_for_Time_Series_Change_Point_Detection.pdf)
 
 **Authors:** Samaneh Aminikhanghahid & Diane J. Cook                    
 
