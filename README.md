@@ -13,9 +13,9 @@ detect change points in time series. The methods examined include both supervise
 unsupervised algorithms that have been introduced and evaluated. We introduce several criteria to
 compare the algorithms. Finally, we present some grand challenges for the community to consider.
 
-## Keywords:  Change point detection; Time series data; Segmentation; Machine learning; Data mining
+Keywords:  Change point detection; Time series data; Segmentation; Machine learning; Data mining
 
-[View Paper](https://changepointanaysis.github.io/content/A Survey of Methods for Time Series Change Point Detection.pdf)
+## [View Paper](https://changepointanaysis.github.io/content/A Survey of Methods for Time Series Change Point Detection.pdf)
 
 
 
